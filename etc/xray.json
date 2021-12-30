@@ -13,13 +13,13 @@
                         "alterId": 0
                     }
                 ],
-                "disableInsecureEncryption": true
+                "disableInsecureEncryption": false
             },
             "streamSettings": {
                 "network": "ws",
                 "allowInsecure": false,
                 "wsSettings": {
-                  "path": "/$AUUID-vmess"
+                  "path": "/TS/recharge/tzUrl.html"
                 }
             }
         },
